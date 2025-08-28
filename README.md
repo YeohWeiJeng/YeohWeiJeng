@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeoh Wei Jeng</h1>
-<h3 align="center">A Computer Science student from Malaysia</h3>
+<h3 align="center">A Data Science student from Malaysia</h3>
 
-- 🌱 I’m currently learning **Diploma in Computer Science**
+- 🌱 I’m currently learning **Bachelor in Data Science (Honours)**
 
 - 📫 How to reach me **yeohwj-pm23@student.tarc.edu.my**
 
